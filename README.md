@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @CookieFNP
-- 👀 I’m interested in reading and listening music.
-- 🌱 I’m currently learning LLM & loT & java.
-- 💞️ I’m looking for someone to work together~
 - 📫 How to reach me : finer2022@163.com
 
 <!---
