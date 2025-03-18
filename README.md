@@ -14,7 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=CookieFNP)
-![GitHub Streak](https://streak-stats.demolab.com/?user=CookieFNP)
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Perhaps+...+a+person?;Nice+2+meet+U+~~ (*^^ /)
