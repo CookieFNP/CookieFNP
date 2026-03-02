@@ -2,6 +2,6 @@ Hi, there.~~(* ^^ /
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=3AACF7&background=88BFFF00&center=true&width=435&lines=Nice+2+meet+U)](https://git.io/typing-svg)
 
-[个人博客页](http://finersun.cn/) 
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
